@@ -45,6 +45,18 @@ body{
     transform: rotateX(0deg) scale(1) translateY(10px);
 }
 
+.card__header{
+    border-radius: 3px;
+    padding: 10px;
+    text-align: center;
+    background: #fff;
+}
+
+.card__cover{
+    width: 100%;
+}
+
+
 
 
 
