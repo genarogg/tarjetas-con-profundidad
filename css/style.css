@@ -56,6 +56,12 @@ body{
     width: 100%;
 }
 
+.card__cover img{
+    display: block;
+    margin:auto;
+    width: 200px;
+    padding: 20px;    
+}
 
 
 
