@@ -20,6 +20,16 @@ body{
     font-weight: 100;
 }
 
+.container__cards{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    perspective: 900px;
+}
+
 
 
 
