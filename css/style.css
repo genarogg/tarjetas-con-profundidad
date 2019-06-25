@@ -9,6 +9,19 @@ body{
     background: #54007c;
 }
 
+.title{
+    color:white;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.title font{
+    font-weight: 100;
+}
+
+
+
 
 
 
