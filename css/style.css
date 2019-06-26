@@ -86,7 +86,19 @@ body{
     margin-bottom: 20px;
 }
 
+.specifications h3{
+    margin-top: 10px;
+}
 
+hr{
+    border:none;
+    height: 2px;
+    background: rgba(255,255,255,.3)
+}
+
+.specifications h3 font{
+    font-weight: 400;
+}
 
 
 
