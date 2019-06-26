@@ -100,6 +100,14 @@ hr{
     font-weight: 400;
 }
 
+@media screen and ( max-width: 800px){
+    .container__cards{
+        perspective: none;
+        flex-wrap: wrap;
+    }
+
+    
+}
 
 
 
